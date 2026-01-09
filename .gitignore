@@ -1,0 +1,18 @@
+# Data (do NOT commit datasets)
+data/raw/
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
